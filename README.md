@@ -1,1 +1,1 @@
-Using ordering data from a restaurant forecast required inventory levels to meet demand using time series.
+Using ordering data from a restaurant supply company to forecast required inventory levels to meet demand using time series.
